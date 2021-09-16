@@ -1,7 +1,7 @@
 ### 特别赞助
 
 <a href="https://www.jetbrains.com/?from=FEBS Shiro">
-    <img src="screenshot/jetbrains.png" width="100px"></a>
+    <img src="https://gitee.com/Im_age/blog-img/raw/master/images/202109161507304.png" width="100px"></a>
 
 ### 编辑器记得安装lombok插件
 
@@ -11,7 +11,7 @@
 ![https://img.shields.io/badge/shiro-1.6.0-orange.svg?longCache=true&style=flat-square](https://img.shields.io/badge/shiro-1.6.0-orange.svg?longCache=true&style=flat-square)
 ![https://img.shields.io/badge/layui-2.6.8-brightgreen.svg?longCache=true&style=flat-square](https://img.shields.io/badge/layui-2.6.8-brightgreen.svg?longCache=true&style=flat-square)
 
-May-Shiro是一款简单高效的后台权限管理系统，使用Spring Boot，Shiro和Layui构建。相信无论作为企业级应用，私活开发脚手架或者权限系统构建学习，May-Shiro都会是一个不错的选择。
+May-Shiro是一款简单高效的后台权限管理系统，使用Spring Boot，Shiro和Layui构建。
 
 本地部署账号密码：
 
@@ -95,20 +95,20 @@ Jana   | 1234qwer  |跑批人员，负责任务调度跑批模块
 ### 系统截图
 
 #### PC端
-![screenshot](screenshot/pc_screenshot_1.jpg)
-![screenshot](screenshot/pc_screenshot_2.jpg)
-![screenshot](screenshot/pc_screenshot_3.jpg)
-![screenshot](screenshot/pc_screenshot_4.jpg)
-![screenshot](screenshot/pc_screenshot_5.jpg)
-![screenshot](screenshot/pc_screenshot_6.jpg)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161422347.png)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161424964.png)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161424108.png)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161446299.png)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161447356.png)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161447163.png)
 
 #### 手机
-![screenshot](screenshot/mobile_screenshot_1.jpg)
-![screenshot](screenshot/mobile_screenshot_2.jpg)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161502203.png)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161503367.jpg)
 #### Pad
-![screenshot](screenshot/pad_screenshot_1.jpg)
-![screenshot](screenshot/pad_screenshot_2.jpg)
-![screenshot](screenshot/pad_screenshot_3.jpg)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161504025.jpg)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161505088.jpg)
+![screenshot](https://gitee.com/Im_age/blog-img/raw/master/images/202109161506734.jpg)
 ### 浏览器兼容
 |[<img src="https://raw.github.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png" alt="Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>IE| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari |[<img src="https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Opera
 | --------- | --------- | --------- | --------- | --------- |--------- |
